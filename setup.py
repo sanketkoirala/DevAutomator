@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="devautomator",
     version="0.1.0",
-    author="Sanket",
-    author_email="your.email@example.com",
+    author="Sanket Koirala",
+    author_email="sanketkoirala735@gmail.com",
     description="Your Personal Dev Automation Assistant",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/devautomator",
+    url="https://github.com/sanketkoirala/DevAutomator",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
